@@ -1,0 +1,25 @@
+{
+    "name": "Combination Lock",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "radio-broadcast": "*",
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.5",
+        "servo": "*",
+        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
